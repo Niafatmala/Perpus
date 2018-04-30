@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+}
+#navbarku {
+	padding:25px;
+	height: 100px;
+	width:100%; 
+	z-index:9999;
+}
+#inti{
+	height: 50px;
+	width: 100%;
+	z-index: 9999;
+	padding-left: 25px;
+	padding-right: 25px; 
+}
+h1{
+	text-align: center;
+}
